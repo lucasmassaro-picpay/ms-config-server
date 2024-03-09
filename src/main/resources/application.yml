@@ -9,3 +9,4 @@ spring:
             server:
                 git:
                     uri: https://github.com/lucasmassaro-picpay/config-repository.git
+                    searchPaths: '{application}'
